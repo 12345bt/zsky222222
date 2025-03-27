@@ -15,7 +15,7 @@ Flask_WTF==0.14.2
 Flask_Login==0.4.0
 Flask_Moment==0.5.1
 DBUtils==1.2
-gunicorn==19.7.1
+gunicorn==23.0.0
 gevent==1.2.2
 redis==2.10.5
 supervisor==3.3.2
